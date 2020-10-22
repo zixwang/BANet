@@ -1,2 +1,7 @@
 # BANet
-The code of "BANet: Bi-directional Attention Network for Efficient Pavement Crack Detection"
+Code for our paper -- BANet: Bi-directional Attention Network for Automated Pavement Crack Detection
+
+## Libraries
+* pytorch
+* CUDA
+
